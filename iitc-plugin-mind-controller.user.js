@@ -1,7 +1,7 @@
 // ==UserScript==
 // @id             iitc-plugin-mind-controller@dportalesr
 // @name           IITC plugin: Mind Controller
-// @category       Layer
+// @category       Draw
 // @version        0.1.0
 // @namespace      https://github.com/dportalesr/iitc-plugin-mind-controller
 // @description    Plan fields with portal-snapped links, anchor-to-many drawing, crosslink detection (drawn vs drawn and drawn vs real), and under-field link-length validation (2 km cap). Stores into iitc-plugin-draw-tools so links persist and export with the rest. Requires: iitc-plugin-draw-tools. Soft-uses: iitc-plugin-crosslinks.
